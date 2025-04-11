@@ -1,0 +1,37 @@
+.table-container {
+    width: 90%;
+    max-width: 1200px;
+    border-radius: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 2rem;
+  }
+  
+  .table-header {
+    background-color: #f5f5f5;
+    font-weight: bold;
+  }
+  
+  .table-cell {
+    padding: 20px;
+  }
+  
+  .table-cell-right {
+    text-align: right;
+  }
+  
+  .table-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 6rem;
+  }
+  
+  .table-title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 2rem;
+}  

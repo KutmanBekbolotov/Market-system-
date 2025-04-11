@@ -1,0 +1,12 @@
+.reference-container {
+    padding: 32px;
+  }
+  
+  .reference-subtitle {
+    margin-top: 32px;
+  }
+  
+  .reference-list-item {
+    align-items: flex-start;
+  }
+  

@@ -1,0 +1,21 @@
+.drawer {
+    width: 240px;
+}
+
+.drawer .MuiDrawer-paper {
+    width: 220px;
+    position: relative;
+    border-radius: 20px;
+    left: -15px;
+}
+
+.appBar {
+    z-index: 1; 
+    transition: margin 0.3s ease; 
+    margin-left: 0;
+}
+
+.listItemButton {
+    display: flex;
+    align-items: center;
+}
