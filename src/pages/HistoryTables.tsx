@@ -3,10 +3,11 @@ import Sidebar from '../components/Sidebar'
 import { Container, Box, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper, Typography, TextField } from '@mui/material'
 
 const mockHistory = [
-  { id: 1, date: '2025-04-01', name: 'Монитор Samsung 24"', category: 'Электроника', quantity: 12, price: 12999 },
-  { id: 2, date: '2025-04-02', name: 'Клавиатура Logitech', category: 'Периферия', quantity: 30, price: 3499 },
-  { id: 3, date: '2025-04-02', name: 'Мышь A4Tech', category: 'Периферия', quantity: 25, price: 1999 },
-  { id: 4, date: '2025-04-03', name: 'Смартфон Xiaomi', category: 'Электроника', quantity: 8, price: 23999 },
+  { id: 1, date: '2025-04-01', name: 'Молоко 3.2%"', category: 'Молочные продукты', quantity: 12, price: 56 },
+  { id: 2, date: '2025-04-02', name: 'Сметана', category: 'Молочные продукты', quantity: 30, price: 89 },
+  { id: 3, date: '2025-04-02', name: 'Кефир Ванильный', category: 'Молочные продукты', quantity: 8, price: 120 },
+  { id: 4, date: '2025-04-03', name: 'Тархун', category: 'Напитки', quantity: 35, price: 45 },
+  { id: 5, date: '2025-04-04', name: 'Султан-Чай', category: 'Напитки', quantity: 35, price: 65 },
 ]
 
 const History = () => {
